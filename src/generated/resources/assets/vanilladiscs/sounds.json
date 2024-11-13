@@ -1,0 +1,26 @@
+{
+  "music_disc.clark": {
+    "sounds": [
+      {
+        "name": "music/game/calm2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.minecraft": {
+    "sounds": [
+      {
+        "name": "music/game/calm1",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sweden": {
+    "sounds": [
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      }
+    ]
+  }
+}
